@@ -1,6 +1,4 @@
- [🔴高相关 |🟡中相关 | ⚪️低相关]
- ✅已读
- 📖未读
+ [🔴高相关 |🟡中相关 | ⚪️低相关  ✅已读📖未读]
 # Awesome Incremental Learning / Lifelong learning
 ## Survey
 - <a name="todo"></a> Continual Learning With Knowledge Distillation: A Survey (**TNNLS 2024**)  [[paper](https://ieeexplore.ieee.org/document/10721446)]
@@ -30,12 +28,12 @@
 
 ## Papers
 ### 2025
-- <a name="todo"></a> Prototype antithesis for biological few-shot class-incremental learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=bRqaHn3J5I)]
-- <a name="todo"></a> Coreset Selection via Reducible Loss in Continual Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=mAztx8QO3B)][[code](https://github.com/RuilinTong/CSReL-Coreset-CL)]
-- <a name="todo"></a> LOIRE: LifelOng learning on Incremental data via pre-trained language model gRowth Efficiently (**ICLR 2025**) [[paper](https://openreview.net/forum?id=F5PlYMC5ik)]
-- <a name="todo"></a> Active Learning for Continual Learning: Keeping the Past Alive in the Present (**ICLR 2025**) [[paper](https://openreview.net/forum?id=mnLmmtW7HO)]
-- <a name="todo"></a> TSVD: Bridging Theory and Practice in Continual Learning with Pre-trained Models (**ICLR 2025**) [[paper](https://openreview.net/forum?id=bqv7M0wc4x)][[code](https://github.com/liangzu/tsvd)]
-- <a name="todo"></a> On Large Language Model Continual Unlearning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=Essg9kb4yx)][[code](https://github.com/GCYZSL/O3-LLM-UNLEARNING)]
+- <a name="todo"></a> Prototype antithesis for biological few-shot class-incremental learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=bRqaHn3J5I)] [ 🟡中相关 |📖未读 ]
+- <a name="todo"></a> Coreset Selection via Reducible Loss in Continual Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=mAztx8QO3B)][[code](https://github.com/RuilinTong/CSReL-Coreset-CL)][ 🟡中相关 |📖未读 ]
+- <a name="todo"></a> LOIRE: LifelOng learning on Incremental data via pre-trained language model gRowth Efficiently (**ICLR 2025**) [[paper](https://openreview.net/forum?id=F5PlYMC5ik)][ 🟡中相关 |📖未读 ]
+- <a name="todo"></a> Active Learning for Continual Learning: Keeping the Past Alive in the Present (**ICLR 2025**) [[paper](https://openreview.net/forum?id=mnLmmtW7HO)][ 🟡中相关 |📖未读 ]
+- <a name="todo"></a> TSVD: Bridging Theory and Practice in Continual Learning with Pre-trained Models (**ICLR 2025**) [[paper](https://openreview.net/forum?id=bqv7M0wc4x)][[code](https://github.com/liangzu/tsvd)][ 🟡中相关 |📖未读 ]
+- <a name="todo"></a> On Large Language Model Continual Unlearning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=Essg9kb4yx)][[code](https://github.com/GCYZSL/O3-LLM-UNLEARNING)][ ⚪️低相关  |📖未读 ]
 - <a name="todo"></a> SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning (**ICLR 2025**) [[paper](https://openreview.net/forum?id=5U1rlpX68A)][[code](https://github.com/WuYichen-97/SD-Lora-CL)]
 - <a name="todo"></a> Federated Class-Incremental Learning: A Hybrid Approach Using Latent Exemplars and Data-Free Techniques to Address Local and Global Forgetting (**ICLR 2025**) [[paper](https://openreview.net/forum?id=ydREOIttdC)]
 - <a name="todo"></a> ADAPT: Attentive Self-Distillation and Dual-Decoder Prediction Fusion for Continual Panoptic Segmentation (**ICLR 2025**) [[paper](https://openreview.net/forum?id=HF1UmIVv6a)][[code](https://github.com/Ze-Yang/ADAPT)]
