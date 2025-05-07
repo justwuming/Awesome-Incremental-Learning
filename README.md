@@ -1,3 +1,6 @@
+ [🔴高相关 |🟡中相关 | ⚪️低相关]
+ ✅已读
+ 📖未读
 # Awesome Incremental Learning / Lifelong learning
 ## Survey
 - <a name="todo"></a> Continual Learning With Knowledge Distillation: A Survey (**TNNLS 2024**)  [[paper](https://ieeexplore.ieee.org/document/10721446)]
